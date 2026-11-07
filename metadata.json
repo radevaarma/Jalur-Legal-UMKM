@@ -1,0 +1,7 @@
+{
+  "name": "Jalur Legal UMKM Indonesia",
+  "description": "Panduan praktis bagi pelaku UMKM pangan olahan untuk mengurus NIB, PIRT, dan sertifikat halal dengan direktori Bangka Belitung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
